@@ -43,12 +43,17 @@ Decrement Counter: Click the "-" button to decrease the counter by 1. (The count
 Reset Counter: Click the "Reset" button to reset the counter to 0.
 
 
-Example
+## Example
 When you open the app:
 
 You will see a counter displayed in the center of the page.
+
 Buttons below the counter allow you to increase, decrease, or reset the value.
+
 The app's layout will adapt to different screen sizes, providing a responsive user experience.
-Dependencies
+
+## Dependencies
+
 React: Frontend framework for building the UI.
+
 CSS or Styled Components: For styling the app
